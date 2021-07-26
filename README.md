@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioogle
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang/Crypto/Quant
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
