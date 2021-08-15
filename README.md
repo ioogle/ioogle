@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ioogle
-- 👀 I'm interested in `Crypto Currency` `Entrepreneurship`
+- 👀 I'm interested in `Crypto Currency` `Entrepreneurship` `Secondary Market`
 - 🌱 I’m currently using `Golang` `Python` <del>`Qt`</del> `Tensorflow` `Vue.js` `k8s`
 
 <!---
