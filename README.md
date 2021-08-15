@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioogle
 - 👀 I'm interested in `Crypto Currency` `Entrepreneurship`
-- 🌱 I’m currently using `Golang` `Python` <del> `Qt` </del> `Tensorflow` `Vue.js` `k8s`
+- 🌱 I’m currently using `Golang` `Python` <del>`Qt`</del> `Tensorflow` `Vue.js` `k8s`
 
 <!---
 ioogle/ioogle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
